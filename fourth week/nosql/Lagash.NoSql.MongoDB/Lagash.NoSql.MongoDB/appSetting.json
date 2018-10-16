@@ -1,0 +1,8 @@
+{
+  "Host": "lagashuniversity.documents.azure.com",
+  "Username": "lagashuniversity",
+  "Password": "mae5IG6kxl7qGhtzdF1RsYlw9h5aoQkXz6RatNjURDp9foK2HYmo9IX0Nthd0TfHZZtPGjr81M5JHqorxYqA4g==",
+  "ConnectionString": "mongodb://lagashuniversity:THSbmeZbKeBV5FHjZ4mEvik2VZ8hJk6AvA40P5YI9SmHzPDe9MXzsE6QEmgH2xrcou6dqGrV4A4JeVmHj93Qfg==@lagashuniversity.documents.azure.com:10255/?ssl=true&replicaSet=globaldb",
+  "DatabaseName": "Test",
+  "Mechanism": ""
+}
